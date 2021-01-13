@@ -1,2 +1,2 @@
 # hello-world
-Meu nome é Rafael ,tenho 14 anos . Sei criar um site básico em html(sem flexbox),me considero intermediario. E também sei python mas também de forma intermediária.
+Meu nome é Rafael ,tenho 14 anos . Sei um pouco de html e python mas ainda estou estudando.
